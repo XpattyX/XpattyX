@@ -1,5 +1,7 @@
 <h1 align="center">Hi 👋, I'm Papimpat Nimprasert (Patty)</h1>
-<h3 align="center">Nice to meet you all 🙋‍♀️</h3>
+<h3 align="center">Nice to meet you all 🙋‍♀️ </h3>
+
+[![portfolio](https://img.shields.io/badge/my_portfolio-000?style=for-the-badge&logo=ko-fi&logoColor=white)](https://XpattyX.github.io/)
 
 - 🌱 I’m currently learning **to be a front-end developer.**
 
