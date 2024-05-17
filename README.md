@@ -11,7 +11,6 @@
 <p align="left">
 <a href="https://instagram.com/dupercuper" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="dupercuper" height="30" width="40" /></a>
 <a href="https://www.behance.net/pattiesssss" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/behance.svg" alt="pattiesssss" height="30" width="40" /></a>
-<a href="https://www.youtube.com/channel/UCjlOit7T4VVP-pSO3-zMDhA" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="dupercoop" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
