@@ -3,7 +3,7 @@
 
 [![portfolio](https://img.shields.io/badge/my_portfolio-000?style=for-the-badge&logo=ko-fi&logoColor=white)](https://XpattyX.github.io/)
 
-- 🌱 I’m currently learning **to be a front-end developer.**
+- 🌱 I’m currently a web developer.**
 
 - 📫 How to reach me **Patrick.sqp@gmail.com**
 
